@@ -22,8 +22,7 @@ Nivo یک **ORM سبک و غیرهمزمان (async)** برای Python است ک
 با pip:
 
 ```bash
-pip install aiosqlite
-pip install git+https://github.com/Mahdy-Ahmadi/nivo.git
+pip install nivo
 ```
 
 یا اگر فایل `setup.py` دارید:
