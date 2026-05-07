@@ -1,68 +1,77 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Mahak+Bahmani;Python+Learner;Cybersecurity+Enthusiast;Always+in+Motion" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=70&lines=%3E+ACCESS:+GRANTED;%3E+USER:+mahak-bahmani;%3E+MODE:+GHOST" alt="Terminal Animation" />
 
 </div>
 
-# 🌸 Hi, I'm Mahak  
-### *✨ A soft & curious junior in Python & Security ✨*
+> [!WARNING]
+> UNAUTHORIZED ACCESS IS PROHIBITED
+> 
+> BUT IF YOU'RE HERE... YOU'RE ALREADY INSIDE
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> **Born in 2008 | Python since 2024** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# $ whoami
+
+</div>
+
+## > mahak-bahmani
+
+| **ALIAS**      | mahak-bahmani                  |
+|----------------|--------------------------------|
+| **BORN**       | 2008                           |
+| **ROLE**       | junior / python / security     |
+| **STATUS**     | learning in stealth mode       |
+| **CERT**       | python - jahad daneshgahi      |
+| **EXPERIENCE** | 1 year (and counting)          |
+
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=300&color=00FF41&center=true&vCenter=true&width=400&lines=%3E+scanning+environment...;%3E+no+system+is+100%25+safe;%3E+watching.+waiting." />
 
 </div>
 
 ---
 
-## 🧸 About me
+## $ skills
 
-I’m **Mahak Bahmani** — a young girl who fell in love with Python and now whispers to cybersecurity.
-
-- 🎓 Python certified by **Jahad Daneshgahi**  
-- 📆 **2008** — small age, huge dreams  
-- 🐍 almost **1 year** of Python journey  
-- 🚀 just started my path in **cybersecurity** (and already obsessed)
-
-> “I’m not perfect — but I’m perfectly curious.”
+| [PYTHON] | █████░░░ | scripting | automation |
+|----------|----------|-----------|------------|
+| [LINUX]  | ██░░░░░░ | terminal  | basics     |
+| [NET]    | █░░░░░░░ | TCP/IP    | ports      |
 
 ---
 
-## 🧩 what I'm learning
+## $ objectives
 
-| Area | Focus |
-|------|-------|
-| 🐍 Python | scripting, automation |
-| 🖥️ Linux | terminal, basics |
-| 🌐 networking | TCP/IP, ports |
-| 🧠 mindset | CTF, problem solving |
+[+] understand how things break  
+[+] learn to disappear  
+[+] build tools not excuses  
+[+] stay curious. stay quiet.  
 
 ---
 
-## 🎯 my goals
+## $ philosophy
 
-- ✨ write security scripts  
-- ✨ understand how things break & get fixed  
-- ✨ solve beginner CTF challenges  
-- ✨ grow my GitHub step by step  
-
----
-
-## 📡 reach me
-
-[![GitHub](https://img.shields.io/badge/GitHub-mahak--bahmani-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/mahak-bahmani)  
-📧 mahak.bahmani@example.com *(replace with your real email)*
+> "the quieter you become, the more you can hear"  
+> "every expert was once a beginner"  
+> "trust the process"
 
 ---
+
+## $ CONTACT
+
+**github:**   https://github.com/mahak-bahmani  
+**email:**    mahak.bahmani@example.com  
+**status:**   offline / watching  
 
 <div align="center">
   
-### 🌙 random thought
+> [ CONNECTION TERMINATED ]  
+> [ BUT I'LL BE BACK ]
 
-> “The quieter you become, the more you can hear…”
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=5000&pause=1000&color=00FF41&center=true&vCenter=true&width=350&lines=%3E+logging+out...;%3E+session+closed" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=300&color=AAAAAA&center=true&vCenter=true&width=300&lines=Python+%2B+heart+%3D+Mahak" />
-
-<img src="https://komarev.com/ghpvc/?username=mahak-bahmani&style=flat-square&color=00FFAA&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=mahak-bahmani&style=flat-square&color=00FF41&label=%3E+visitors" />
 
 </div>
